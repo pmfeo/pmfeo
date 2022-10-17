@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Pablo ( @pmfeo )
 
-- 👀 I’m interested in: 💻 Web Development, new technologies, IoT ...
+- 👀 I’m interested in: 💻 Web and 📱 Mobile Development.
 
-- 🌱 I’m currently learning: Vuejs and modern web development techiques and tools
+- 🌱 I’m currently learning: React Native and Redux Tool Kit
 
 - 💞️ I’m looking to collaborate on: <i>younameit</i>  😎
 
