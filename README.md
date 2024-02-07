@@ -2,9 +2,9 @@
 
 - 👀 I’m interested in: 💻 Web and 📱 Mobile Development.
 
-- 🌱 I’m currently learning: React Native and Redux Tool Kit
+- 🌱 I’m currently learning: Python
 
-- 💞️ I’m looking to collaborate on: <i>younameit</i>  😎
+- 💞️ I’m looking to collaborate on: <i>you_name_it</i>  😎
 
 - 📫 How to reach me? send me an email to 📧 pablo.feo.acosta@gmail.com
 
